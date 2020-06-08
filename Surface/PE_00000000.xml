@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Precipitation</VAR>
+<UNIT>mm</UNIT>
+<PERIOD>20190801-20190811</PERIOD>
+</STAT>
